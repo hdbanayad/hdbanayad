@@ -1,14 +1,13 @@
 ## About Me
 Hi, my name is Hollywood, and I am a University of California, Davis-trained biophysicist passionate about Python, data science, and machine learning. I enjoy tackling complex datasets, building predictive models, and developing AI-powered applications.
 
-🛠️ What I'm currently working on:
+🛠️ Currently Working On
   - 📊 Analyzing a Kaggle dataset, developing a predictive model using Logistic Regression, KNN, Decision Trees, and Random Forest to optimize classification performance.
   - 🏆 Competing in Kaggle machine learning competitions, focusing on EDA, model optimization, and emsemble learning (Random Forest)
 
-Applied Data Science Projects:
+⚙️ Current Applied Data Science Projects:
 - 📈 Flask-based Video Game Recommender: Building a game recommendation system for a video game sales dataset.
 - 🎮 League of Legends Match Prediction: Using in-game statistics and ML algorithms to predict match outcomes.
-
   
 🔍 Currently Learning
 - SQL - Database querying, data manipulation, and optimization techniques.
