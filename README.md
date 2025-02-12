@@ -21,12 +21,12 @@ Hi, my name is Hollywood, and I am a University of California, Davis-trained bio
 - Understanding SQL for Data Science: A Beginner’s Guide
   
 🔧 Technical Skills
-💻 Programming: Python | R | SQL | MATLAB
-🤖 Machine Learning: Regression (Linear/Logistic) | Ridge/Lasso Regularization | PCA | SVM | Clustering | Hyperparameter Tuning
-📊 Data Processing: Panda | NumPy | Scipy
-🎨 Visualization: Matplotlib | Seaborn | ggplot2
-🌐 Deployment: Flask
-📖  Libraries/Tools: Scikit-learn | Github | Git
+- 💻 Programming: Python | R | SQL | MATLAB
+- 🤖 Machine Learning: Regression (Linear/Logistic) | Ridge/Lasso Regularization | PCA | SVM | Clustering | Hyperparameter Tuning
+- 📊 Data Processing: Panda | NumPy | Scipy
+- 🎨 Visualization: Matplotlib | Seaborn | ggplot2
+- 🌐 Deployment: Flask
+- 📖  Libraries/Tools: Scikit-learn | Github | Git
 
 <!--
 **hdbanayad/hdbanayad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
