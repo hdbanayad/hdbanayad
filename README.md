@@ -11,8 +11,6 @@ Hi, my name is Hollywood, and I am a University of California, Davis-trained bio
 - Spanish - Converse with my in-laws by April 2025
 
 🖊️ Blog Posts in Progress
-- How Machine Learning Can Predict League of Legends Match Outcomes
-- Building a Flask-Based Game Recommendation System from Scratch
 - Understanding SQL for Data Science: A Beginner’s Guide
   
 🔧 Technical Skills
